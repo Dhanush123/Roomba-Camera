@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chapatel/Desktop/android-play-places-master/iot-starter-for-android-master/app/libs/org.eclipse.paho.client.mqttv3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="da5fbfa8088506ea0f3a160adf4396cb3ed4cc8f">
+        <dex dex="/Users/chapatel/Desktop/android-play-places-master/iot-starter-for-android-master/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-d0d7e34a05637cfc09573ff6d4ca2ed8f3914e27.jar" />
+    </item>
+    <item
+        jar="/Users/chapatel/Desktop/android-play-places-master/iot-starter-for-android-master/app/libs/org.eclipse.paho.android.service.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="36289fb3b9bb223c35b69449e25a48aef2df756b">
+        <dex dex="/Users/chapatel/Desktop/android-play-places-master/iot-starter-for-android-master/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-3a694ea7a104561cc6c4ff103905f8783076e0f9.jar" />
+    </item>
+
+</items>
